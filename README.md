@@ -1,16 +1,3 @@
-<h1 align="center">Welcome to Flutter-Shopping-UI-Kit 👋</h1>
-<p>
-  <img src="https://img.shields.io/badge/version-1.0.0.-blue.svg?cacheSeconds=2592000" />
-  <a href="https://www.coolflutter.com/">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" target="_blank" />
-  </a>
-  <a href="https://www.coolflutter.com/">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank" />
-  </a>
-  <a href="https://twitter.com/alianilkocak">
-    <img alt="Twitter: alianilkocak" src="https://img.shields.io/twitter/follow/alianilkocak.svg?style=social" target="_blank" />
-  </a>
-</p>
 
 >  Shopping UI design in Flutter
 
